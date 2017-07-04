@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Melissa
 [![Build Status](https://api.travis-ci.org/Melissa-AI/Melissa-Core.svg?branch=master)](https://travis-ci.org/Melissa-AI/Melissa-Core/) 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1394316e9eb40bbbf51a12530c4f86d)](https://www.codacy.com/app/tanay1337/Melissa-Core?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Melissa-AI/Melissa-Core&amp;utm_campaign=Badge_Grade) 
@@ -15,3 +16,6 @@ If you face an issue or require support, please take a look through the GitHub I
 ### Licence
 
 [The MIT License (MIT)](https://github.com/Melissa-AI/Melissa-Core/blob/master/LICENSE.md)
+=======
+# stevens
+>>>>>>> bb6e923ebbc3d2419d68487d90126377ceeb1301
