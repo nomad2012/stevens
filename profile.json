@@ -1,0 +1,47 @@
+{
+    "images_path": "/home/dennis/Pictures", 
+    "ivona": {
+        "access_key": "xxxx", 
+        "secret_key": "xxxx"
+    }, 
+    "tts": "xxxx", 
+    "twitter": {
+        "access_token": "xxxx", 
+        "consumer_key": "xxxx", 
+        "access_token_secret": "xxxx", 
+        "consumer_secret": "xxxx"
+    }, 
+    "music_path": "/home/dennis/Music", 
+    "va_gender": "male", 
+    "gmail": {
+        "password": "xxxx", 
+        "address": "nomadicnerd@gmail.com"
+    }, 
+    "actions_db_file": ":memory:", 
+    "hotword_detection": "on", 
+    "memory_db": "./data/memory.db", 
+    "degrees": "fahrenheit", 
+    "city_code": "94538", 
+    "pocketsphinx": {
+        "hmm": "en-us/", 
+        "lm": "en-us.lm.bin", 
+        "modeldir": "./data/model/cmu/en-us/", 
+        "dic": "cmudict-en-us.dict"
+    }, 
+    "telegram_token": "xxxx", 
+    "icloud": {
+        "username": "", 
+        "password": ""
+    }, 
+    "city_name": "Fremont", 
+    "va_name": "Stevens", 
+    "name": "Sir", 
+    "modules": "melissa.actions", 
+    "stt": "sphinx", 
+    "imgur": {
+        "client_secret": "xxxx", 
+        "client_id": "xxxx"
+    }, 
+    "telegram_username": "foo", 
+    "pushbullet": ""
+}
